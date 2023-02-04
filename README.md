@@ -19,3 +19,5 @@ entre el estado anímico y la trayectoria académica, para así entrenar un nuev
 o clasificar las trayectorias de nuevos estudiantes bajo ciertos criterios (aún por determinar).
 
 5.- Fin.
+
+6. Jenna editando el documento
