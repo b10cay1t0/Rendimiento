@@ -1,4 +1,7 @@
 # Rendimiento
+
+[Ojito: Guía para escribir archivos md](https://www.markdownguide.org/basic-syntax)
+
 En este repositorio, desarrollamos el proyecto de Rendimiento Académico, que consiste en las siguientes fases:
 
 1. Buscar bases de datos de trayectorias académicas de estudiantes de diferentes universidades. Debe incluir:
