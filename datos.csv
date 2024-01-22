@@ -1,0 +1,192 @@
+﻿id,primer semestre,carrera,ssi,das_d,das_e,das_a,ar_e,ar_p,si_e,si_p,vv_e,vv_p,sg_e,sg_p
+1,0,b,Estrés moderado,Extremadamente Severo,Leve,Severo,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Global
+2,0,b,Estrés moderado,Extremadamente Severo,Extremadamente Severo,Extremadamente Severo,Equilibrio apropiado,Activo,Preferencia moderada,Intuitivo,Preferencia fuerte,Visual,Preferencia moderada,Global
+3,0,b,Estrés leve,Moderado,No presenta,Leve,Equilibrio apropiado,Activo,Preferencia moderada,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+4,0,b,Estrés leve,No presenta,Leve,No presenta,Preferencia moderada,Activo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+5,0,b,Estrés leve,Moderado,No presenta,Leve,Equilibrio apropiado,Reflexivo,Preferencia moderada,Sensorial,Equilibrio apropiado,Visual,Preferencia moderada,Secuencial
+6,0,b,Estrés leve,No presenta,No presenta,No presenta,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+7,0,b,Estrés leve,Extremadamente Severo,Severo,Severo,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Sensorial,Equilibrio apropiado,Verbal,Equilibrio apropiado,Secuencial
+8,0,b,Estrés leve,No presenta,No presenta,No presenta,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Global
+9,0,b,Estrés moderado,No presenta,Severo,Moderado,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Intuitivo,Preferencia moderada,Visual,Equilibrio apropiado,Global
+10,0,b,Estrés leve,Extremadamente Severo,Extremadamente Severo,Extremadamente Severo,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+11,0,b,Estrés leve,Severo,Severo,Severo,Equilibrio apropiado,Reflexivo,Preferencia moderada,Sensorial,Equilibrio apropiado,Verbal,Equilibrio apropiado,Secuencial
+12,0,b,Estrés leve,Moderado,Leve,Severo,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+13,0,b,Estrés moderado,Extremadamente Severo,Severo,Severo,Preferencia moderada,Activo,Equilibrio apropiado,Sensorial,Equilibrio apropiado,Visual,Preferencia moderada,Global
+14,0,b,Estrés leve,No presenta,No presenta,Extremadamente Severo,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Preferencia moderada,Secuencial
+15,0,b,Estrés leve,Leve,Moderado,Severo,Preferencia moderada,Activo,Preferencia moderada,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Global
+16,0,b,Estrés moderado,Moderado,Moderado,No presenta,Equilibrio apropiado,Activo,Preferencia moderada,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Global
+1,0,e,Estrés moderado,Severo,Severo,Extremadamente Severo,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Intuitivo,Preferencia moderada,Visual,Preferencia moderada,Secuencial
+2,0,e,Estrés moderado,Severo,No presenta,Extremadamente Severo,Preferencia moderada,Activo,Preferencia moderada,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+3,0,e,Estrés moderado,Leve,Moderado,Moderado,Equilibrio apropiado,Reflexivo,Preferencia moderada,Sensorial,Preferencia moderada,Verbal,Equilibrio apropiado,Secuencial
+4,0,e,Estrés moderado,Extremadamente Severo,Severo,Extremadamente Severo,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Intuitivo,Preferencia moderada,Visual,Equilibrio apropiado,Global
+5,0,e,Estrés moderado,Moderado,Moderado,Moderado,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Secuencial
+6,0,e,Estrés severo,Extremadamente Severo,Extremadamente Severo,Extremadamente Severo,Equilibrio apropiado,Activo,Preferencia fuerte,Sensorial,Preferencia fuerte,Visual,Preferencia moderada,Secuencial
+7,0,e,Estrés moderado,Severo,Moderado,Extremadamente Severo,Equilibrio apropiado,Activo,Preferencia moderada,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Secuencial
+8,0,e,Estrés leve,No presenta,No presenta,Moderado,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Sensorial,Equilibrio apropiado,Verbal,Equilibrio apropiado,Secuencial
+1,0,m,Estrés severo,Severo,Extremadamente Severo,Extremadamente Severo,Equilibrio apropiado,Reflexivo,Preferencia moderada,Intuitivo,Preferencia moderada,Visual,Equilibrio apropiado,Global
+2,0,m,Estrés severo,Moderado,Severo,Extremadamente Severo,Equilibrio apropiado,Activo,Preferencia moderada,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Secuencial
+3,0,m,Estrés moderado,Extremadamente Severo,Extremadamente Severo,Extremadamente Severo,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Sensorial,Equilibrio apropiado,Visual,Equilibrio apropiado,Secuencial
+4,0,m,Estrés moderado,No presenta,No presenta,No presenta,Preferencia moderada,Reflexivo,Preferencia moderada,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Secuencial
+5,0,m,Estrés moderado,Severo,Severo,Severo,Preferencia moderada,Reflexivo,Preferencia moderada,Sensorial,Equilibrio apropiado,Visual,Equilibrio apropiado,Secuencial
+6,0,m,Estrés moderado,Severo,Moderado,Extremadamente Severo,Preferencia moderada,Activo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+7,0,m,Estrés moderado,No presenta,Leve,Moderado,Preferencia moderada,Activo,Preferencia moderada,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+8,0,m,Estrés moderado,Extremadamente Severo,Extremadamente Severo,Extremadamente Severo,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Global
+9,0,m,Estrés leve,Severo,No presenta,No presenta,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Sensorial,Equilibrio apropiado,Verbal,Preferencia moderada,Secuencial
+10,0,m,Estrés moderado,No presenta,No presenta,No presenta,Preferencia moderada,Reflexivo,Preferencia fuerte,Sensorial,Equilibrio apropiado,Visual,Equilibrio apropiado,Global
+11,0,m,Estrés moderado,Severo,Moderado,Leve,Equilibrio apropiado,Activo,Preferencia moderada,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+12,0,m,Estrés moderado,No presenta,No presenta,No presenta,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Global
+13,0,m,Estrés leve,Leve,Leve,Leve,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Global
+14,0,m,Estrés leve,No presenta,No presenta,Moderado,Preferencia moderada,Activo,Preferencia moderada,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Global
+15,0,m,Estrés severo,Extremadamente Severo,Severo,Extremadamente Severo,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Intuitivo,Equilibrio apropiado,Visual,Preferencia moderada,Global
+16,0,m,Estrés moderado,Extremadamente Severo,Extremadamente Severo,Moderado,Equilibrio apropiado,Activo,Preferencia moderada,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Global
+17,0,m,Estrés leve,Leve,Moderado,Extremadamente Severo,Equilibrio apropiado,Reflexivo,Preferencia moderada,Intuitivo,Equilibrio apropiado,Visual,Equilibrio apropiado,Global
+18,0,m,Estrés moderado,No presenta,No presenta,No presenta,Equilibrio apropiado,Activo,Preferencia moderada,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Secuencial
+1,1,b,Estrés leve,No presenta,No presenta,No presenta,Preferencia moderada,Activo,Equilibrio apropiado,Intuitivo,Equilibrio apropiado,Verbal,Preferencia moderada,Secuencial
+2,1,b,Estrés moderado,Moderado,Moderado,Leve,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Global
+3,1,b,Estrés leve,Moderado,No presenta,No presenta,Equilibrio apropiado,Activo,Equilibrio apropiado,Intuitivo,Preferencia moderada,Visual,Preferencia moderada,Secuencial
+4,1,b,Estrés leve,No presenta,No presenta,No presenta,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Equilibrio apropiado,Visual,Equilibrio apropiado,Secuencial
+5,1,b,Estrés leve,Moderado,No presenta,Leve,Equilibrio apropiado,Activo,Equilibrio apropiado,Intuitivo,Preferencia fuerte,Visual,Preferencia moderada,Secuencial
+6,1,b,Estrés moderado,Severo,Severo,Moderado,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Intuitivo,Preferencia moderada,Visual,Equilibrio apropiado,Global
+7,1,b,Estrés moderado,Extremadamente Severo,Moderado,Extremadamente Severo,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Sensorial,Equilibrio apropiado,Visual,Equilibrio apropiado,Global
+8,1,b,Estrés moderado,Moderado,Severo,Extremadamente Severo,Preferencia moderada,Activo,Equilibrio apropiado,Sensorial,Preferencia fuerte,Visual,Preferencia moderada,Global
+9,1,b,Estrés moderado,Moderado,Extremadamente Severo,Extremadamente Severo,Preferencia moderada,Activo,Preferencia moderada,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+10,1,b,Estrés moderado,Moderado,Leve,Moderado,Equilibrio apropiado,Activo,Preferencia moderada,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+11,1,b,Estrés moderado,Severo,Moderado,Extremadamente Severo,Equilibrio apropiado,Activo,Preferencia moderada,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+12,1,b,Estrés leve,No presenta,Leve,Extremadamente Severo,Preferencia moderada,Activo,Equilibrio apropiado,Intuitivo,Preferencia fuerte,Visual,Equilibrio apropiado,Secuencial
+13,1,b,Estrés moderado,Moderado,Moderado,Severo,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+14,1,b,Estrés leve,No presenta,No presenta,No presenta,Preferencia moderada,Activo,Equilibrio apropiado,Intuitivo,Equilibrio apropiado,Verbal,Equilibrio apropiado,Secuencial
+15,1,b,Estrés moderado,No presenta,Moderado,Severo,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Preferencia fuerte,Visual,Preferencia fuerte,Secuencial
+16,1,b,Estrés moderado,Moderado,Moderado,Moderado,Preferencia moderada,Activo,Equilibrio apropiado,Intuitivo,Preferencia fuerte,Visual,Preferencia moderada,Secuencial
+17,1,b,Estrés moderado,Extremadamente Severo,Severo,Extremadamente Severo,Preferencia moderada,Activo,Preferencia moderada,Sensorial,Equilibrio apropiado,Visual,Preferencia moderada,Secuencial
+18,1,b,Estrés leve,No presenta,No presenta,No presenta,Preferencia moderada,Activo,Preferencia moderada,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Secuencial
+19,1,b,Estrés leve,No presenta,No presenta,No presenta,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+20,1,b,Estrés leve,No presenta,No presenta,No presenta,Preferencia moderada,Activo,Preferencia moderada,Sensorial,Equilibrio apropiado,Visual,Equilibrio apropiado,Secuencial
+21,1,b,Estrés moderado,Extremadamente Severo,Extremadamente Severo,Leve,Equilibrio apropiado,Reflexivo,Preferencia moderada,Sensorial,Equilibrio apropiado,Verbal,Equilibrio apropiado,Global
+22,1,b,Estrés leve,Leve,No presenta,Severo,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Global
+23,1,b,Estrés moderado,Moderado,Severo,Extremadamente Severo,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Equilibrio apropiado,Verbal,Equilibrio apropiado,Global
+24,1,b,Estrés leve,No presenta,No presenta,No presenta,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Preferencia fuerte,Visual,Preferencia moderada,Secuencial
+25,1,b,Estrés moderado,Extremadamente Severo,Moderado,Severo,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Sensorial,Equilibrio apropiado,Visual,Preferencia moderada,Secuencial
+1,1,e,Estrés moderado,Moderado,Severo,Extremadamente Severo,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+2,1,e,Estrés leve,No presenta,No presenta,No presenta,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Equilibrio apropiado,Visual,Preferencia moderada,Secuencial
+3,1,e,Estrés leve,No presenta,No presenta,No presenta,Equilibrio apropiado,Activo,Equilibrio apropiado,Intuitivo,Preferencia moderada,Visual,Preferencia moderada,Global
+4,1,e,Estrés moderado,Severo,Moderado,Severo,Preferencia moderada,Activo,Equilibrio apropiado,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Global
+5,1,e,Estrés leve,No presenta,No presenta,No presenta,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Preferencia moderada,Secuencial
+6,1,e,Estrés moderado,Leve,Leve,No presenta,Preferencia moderada,Activo,Preferencia moderada,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Global
+7,1,e,Estrés moderado,Severo,Moderado,Extremadamente Severo,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+8,1,e,Estrés leve,No presenta,Leve,Moderado,Equilibrio apropiado,Activo,Preferencia moderada,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Global
+9,1,e,Estrés moderado,No presenta,Leve,Moderado,Preferencia moderada,Activo,Preferencia moderada,Sensorial,Equilibrio apropiado,Visual,Preferencia moderada,Secuencial
+10,1,e,Estrés leve,No presenta,Leve,Moderado,Equilibrio apropiado,Activo,Preferencia moderada,Sensorial,Preferencia moderada,Verbal,Equilibrio apropiado,Global
+11,1,e,Estrés moderado,Extremadamente Severo,Extremadamente Severo,Extremadamente Severo,Preferencia moderada,Reflexivo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Preferencia moderada,Secuencial
+12,1,e,Estrés moderado,Extremadamente Severo,Moderado,Severo,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+13,1,e,Estrés moderado,Moderado,Moderado,No presenta,Equilibrio apropiado,Activo,Preferencia moderada,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+14,1,e,Estrés moderado,Extremadamente Severo,Severo,Moderado,Equilibrio apropiado,Activo,Preferencia moderada,Sensorial,Equilibrio apropiado,Visual,Equilibrio apropiado,Global
+15,1,e,Estrés moderado,Leve,Moderado,Extremadamente Severo,Preferencia moderada,Activo,Equilibrio apropiado,Sensorial,Equilibrio apropiado,Visual,Preferencia moderada,Secuencial
+16,1,e,Estrés moderado,Leve,No presenta,Moderado,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Global
+17,1,e,Estrés leve,No presenta,No presenta,Leve,Equilibrio apropiado,Reflexivo,Preferencia fuerte,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Global
+18,1,e,Estrés leve,No presenta,No presenta,No presenta,Preferencia moderada,Activo,Preferencia moderada,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Secuencial
+19,1,e,Estrés moderado,Extremadamente Severo,Moderado,Extremadamente Severo,Equilibrio apropiado,Reflexivo,Preferencia moderada,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Global
+20,1,e,Estrés moderado,Severo,Moderado,Leve,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Equilibrio apropiado,Verbal,Equilibrio apropiado,Secuencial
+21,1,e,Estrés leve,No presenta,No presenta,No presenta,Preferencia moderada,Activo,Equilibrio apropiado,Intuitivo,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+22,1,e,Estrés leve,No presenta,No presenta,No presenta,Preferencia moderada,Activo,Preferencia fuerte,Sensorial,Preferencia fuerte,Visual,Preferencia moderada,Secuencial
+23,1,e,Estrés moderado,Severo,Moderado,Extremadamente Severo,Preferencia moderada,Activo,Equilibrio apropiado,Intuitivo,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+24,1,e,Estrés leve,Leve,Moderado,Severo,Equilibrio apropiado,Activo,Equilibrio apropiado,Intuitivo,Equilibrio apropiado,Visual,Preferencia moderada,Secuencial
+25,1,e,Estrés moderado,No presenta,Extremadamente Severo,Extremadamente Severo,Equilibrio apropiado,Reflexivo,Preferencia moderada,Intuitivo,Preferencia fuerte,Visual,Equilibrio apropiado,Secuencial
+26,1,e,Estrés moderado,Extremadamente Severo,Moderado,Extremadamente Severo,Equilibrio apropiado,Reflexivo,Preferencia fuerte,Sensorial,Preferencia moderada,Visual,Preferencia moderada,Secuencial
+27,1,e,Estrés leve,Severo,Leve,Moderado,Preferencia moderada,Activo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+28,1,e,Estrés moderado,Extremadamente Severo,Leve,Extremadamente Severo,Equilibrio apropiado,Activo,Preferencia fuerte,Sensorial,Preferencia moderada,Verbal,Equilibrio apropiado,Global
+29,1,e,Estrés moderado,No presenta,Leve,Moderado,Equilibrio apropiado,Activo,Preferencia moderada,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Secuencial
+30,1,e,Estrés moderado,Moderado,Severo,Extremadamente Severo,Equilibrio apropiado,Activo,Preferencia moderada,Sensorial,Preferencia fuerte,Visual,Preferencia moderada,Global
+31,1,e,Estrés moderado,Extremadamente Severo,Extremadamente Severo,Extremadamente Severo,Equilibrio apropiado,Activo,Preferencia fuerte,Sensorial,Equilibrio apropiado,Visual,Equilibrio apropiado,Secuencial
+32,1,e,Estrés leve,Leve,Moderado,Severo,Preferencia moderada,Activo,Equilibrio apropiado,Sensorial,Equilibrio apropiado,Visual,Equilibrio apropiado,Secuencial
+33,1,e,Estrés moderado,No presenta,Severo,Moderado,Equilibrio apropiado,Reflexivo,Preferencia moderada,Sensorial,Equilibrio apropiado,Verbal,Equilibrio apropiado,Secuencial
+34,1,e,Estrés leve,Severo,Leve,Moderado,Equilibrio apropiado,Activo,Preferencia fuerte,Sensorial,Equilibrio apropiado,Visual,Equilibrio apropiado,Global
+35,1,e,Estrés moderado,Extremadamente Severo,Moderado,Extremadamente Severo,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Preferencia moderada,Secuencial
+36,1,e,Estrés moderado,Severo,Severo,Severo,Preferencia moderada,Reflexivo,Equilibrio apropiado,Sensorial,Equilibrio apropiado,Verbal,Preferencia moderada,Global
+37,1,e,Estrés leve,No presenta,Leve,No presenta,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Sensorial,Preferencia fuerte,Visual,Preferencia fuerte,Secuencial
+1,1,m,Estrés leve,Moderado,No presenta,Moderado,Preferencia fuerte,Activo,Preferencia fuerte,Sensorial,Preferencia fuerte,Visual,Preferencia fuerte,Secuencial
+2,1,m,Estrés moderado,Severo,Severo,Extremadamente Severo,Preferencia moderada,Activo,Preferencia moderada,Sensorial,Preferencia fuerte,Visual,Preferencia moderada,Secuencial
+3,1,m,Estrés severo,Extremadamente Severo,Extremadamente Severo,Extremadamente Severo,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Global
+4,1,m,Estrés moderado,Severo,Extremadamente Severo,Extremadamente Severo,Preferencia moderada,Activo,Equilibrio apropiado,Sensorial,Equilibrio apropiado,Verbal,Preferencia moderada,Secuencial
+5,1,m,Estrés leve,No presenta,No presenta,No presenta,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Sensorial,Equilibrio apropiado,Visual,Equilibrio apropiado,Secuencial
+6,1,m,Estrés moderado,Extremadamente Severo,Extremadamente Severo,Extremadamente Severo,Preferencia moderada,Activo,Preferencia moderada,Sensorial,Equilibrio apropiado,Visual,Equilibrio apropiado,Secuencial
+7,1,m,Estrés moderado,Moderado,Moderado,No presenta,Preferencia moderada,Activo,Equilibrio apropiado,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Global
+8,1,m,Estrés moderado,Moderado,Moderado,No presenta,Equilibrio apropiado,Activo,Preferencia moderada,Sensorial,Preferencia fuerte,Visual,Preferencia moderada,Secuencial
+9,1,m,Estrés moderado,Leve,Severo,Severo,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Preferencia moderada,Secuencial
+10,1,m,Estrés leve,No presenta,No presenta,Moderado,Equilibrio apropiado,Activo,Equilibrio apropiado,Intuitivo,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+11,1,m,Estrés leve,No presenta,No presenta,Leve,Equilibrio apropiado,Activo,Preferencia moderada,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Global
+12,1,m,Estrés moderado,No presenta,No presenta,No presenta,Equilibrio apropiado,Reflexivo,Preferencia moderada,Sensorial,Equilibrio apropiado,Visual,Preferencia moderada,Secuencial
+13,1,m,Estrés leve,No presenta,No presenta,No presenta,Equilibrio apropiado,Activo,Preferencia moderada,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+14,1,m,Estrés moderado,Moderado,Moderado,No presenta,Preferencia moderada,Activo,Preferencia moderada,Sensorial,Equilibrio apropiado,Verbal,Equilibrio apropiado,Secuencial
+15,1,m,Estrés leve,Moderado,No presenta,Leve,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Secuencial
+16,1,m,Estrés leve,No presenta,Leve,Moderado,Preferencia moderada,Activo,Equilibrio apropiado,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Global
+17,1,m,Estrés moderado,No presenta,Moderado,Severo,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Preferencia fuerte,Visual,Preferencia moderada,Secuencial
+18,1,m,Estrés leve,No presenta,No presenta,No presenta,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Preferencia moderada,Secuencial
+19,1,m,Estrés moderado,Severo,Extremadamente Severo,Severo,Equilibrio apropiado,Reflexivo,Preferencia moderada,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Global
+20,1,m,Estrés moderado,Severo,Severo,Extremadamente Severo,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Intuitivo,Preferencia fuerte,Visual,Equilibrio apropiado,Global
+21,1,m,Estrés leve,Leve,Leve,No presenta,Preferencia moderada,Reflexivo,Equilibrio apropiado,Sensorial,Equilibrio apropiado,Verbal,Preferencia moderada,Secuencial
+22,1,m,Estrés moderado,Extremadamente Severo,Severo,No presenta,Equilibrio apropiado,Activo,Equilibrio apropiado,Intuitivo,Preferencia moderada,Visual,Equilibrio apropiado,Global
+23,1,m,Estrés leve,Moderado,No presenta,Moderado,Equilibrio apropiado,Activo,Preferencia moderada,Sensorial,Equilibrio apropiado,Visual,Preferencia moderada,Secuencial
+24,1,m,Estrés moderado,Severo,Severo,Moderado,Equilibrio apropiado,Activo,Preferencia fuerte,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Global
+25,1,m,Estrés moderado,Moderado,Moderado,Extremadamente Severo,Preferencia moderada,Activo,Equilibrio apropiado,Intuitivo,Preferencia fuerte,Visual,Equilibrio apropiado,Global
+26,1,m,Estrés moderado,Extremadamente Severo,Extremadamente Severo,Extremadamente Severo,Preferencia moderada,Reflexivo,Equilibrio apropiado,Sensorial,Equilibrio apropiado,Verbal,Equilibrio apropiado,Global
+27,1,m,Estrés leve,Leve,No presenta,No presenta,Equilibrio apropiado,Activo,Preferencia fuerte,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Secuencial
+28,1,m,Estrés leve,No presenta,Leve,No presenta,Equilibrio apropiado,Reflexivo,Preferencia fuerte,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Global
+29,1,m,Estrés moderado,Moderado,Leve,No presenta,Preferencia moderada,Reflexivo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+30,1,m,Estrés leve,No presenta,No presenta,No presenta,Preferencia fuerte,Activo,Preferencia fuerte,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Secuencial
+31,1,m,Estrés leve,Moderado,No presenta,Severo,Preferencia fuerte,Activo,Preferencia moderada,Sensorial,Preferencia fuerte,Visual,Preferencia moderada,Secuencial
+32,1,m,Estrés leve,No presenta,No presenta,No presenta,Equilibrio apropiado,Reflexivo,Preferencia moderada,Sensorial,Equilibrio apropiado,Verbal,Preferencia moderada,Secuencial
+33,1,m,Estrés leve,No presenta,Leve,Moderado,Preferencia moderada,Activo,Equilibrio apropiado,Intuitivo,Preferencia fuerte,Visual,Preferencia fuerte,Secuencial
+34,1,m,Estrés leve,Moderado,Moderado,No presenta,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+35,1,m,Estrés moderado,Moderado,No presenta,No presenta,Preferencia moderada,Activo,Preferencia moderada,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Secuencial
+36,1,m,Estrés leve,Leve,No presenta,Moderado,Preferencia moderada,Activo,Preferencia fuerte,Sensorial,Equilibrio apropiado,Visual,Preferencia moderada,Secuencial
+37,1,m,Estrés leve,No presenta,No presenta,No presenta,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Global
+38,1,m,Estrés moderado,Moderado,Moderado,Moderado,Preferencia moderada,Activo,Equilibrio apropiado,Intuitivo,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+39,1,m,Estrés moderado,Extremadamente Severo,Severo,Moderado,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+40,1,m,Estrés leve,No presenta,No presenta,No presenta,Equilibrio apropiado,Activo,Preferencia moderada,Sensorial,Preferencia moderada,Visual,Preferencia moderada,Secuencial
+41,1,m,Estrés leve,No presenta,No presenta,No presenta,Preferencia fuerte,Activo,Preferencia fuerte,Sensorial,Preferencia fuerte,Visual,Preferencia fuerte,Secuencial
+42,1,m,Estrés leve,No presenta,No presenta,No presenta,Equilibrio apropiado,Activo,Preferencia moderada,Sensorial,Preferencia fuerte,Visual,Preferencia moderada,Global
+43,1,m,Estrés moderado,Extremadamente Severo,Extremadamente Severo,Extremadamente Severo,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Secuencial
+44,1,m,Estrés moderado,Moderado,Leve,Severo,Preferencia moderada,Activo,Equilibrio apropiado,Sensorial,Equilibrio apropiado,Verbal,Preferencia moderada,Secuencial
+45,1,m,Estrés leve,Leve,No presenta,No presenta,Equilibrio apropiado,Activo,Equilibrio apropiado,Intuitivo,Equilibrio apropiado,Visual,Equilibrio apropiado,Global
+46,1,m,Estrés leve,Severo,Severo,Severo,Preferencia fuerte,Activo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Preferencia moderada,Secuencial
+47,1,m,Estrés leve,Leve,No presenta,No presenta,Preferencia moderada,Activo,Preferencia moderada,Sensorial,Equilibrio apropiado,Visual,Equilibrio apropiado,Secuencial
+48,1,m,Estrés severo,Extremadamente Severo,Extremadamente Severo,Extremadamente Severo,Equilibrio apropiado,Activo,Preferencia moderada,Sensorial,Equilibrio apropiado,Visual,Equilibrio apropiado,Secuencial
+1,1,t,Estrés leve,No presenta,No presenta,Leve,Preferencia moderada,Activo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Global
+2,1,t,Estrés moderado,Leve,Moderado,Extremadamente Severo,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Preferencia fuerte,Secuencial
+3,1,t,Estrés leve,No presenta,Leve,Leve,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Equilibrio apropiado,Visual,Equilibrio apropiado,Secuencial
+4,1,t,Estrés leve,No presenta,Leve,Moderado,Preferencia moderada,Activo,Equilibrio apropiado,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Secuencial
+5,1,t,Estrés moderado,Extremadamente Severo,Moderado,Moderado,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Secuencial
+6,1,t,Estrés moderado,Extremadamente Severo,Severo,Extremadamente Severo,Preferencia moderada,Activo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Global
+7,1,t,Estrés moderado,Severo,Extremadamente Severo,Extremadamente Severo,Equilibrio apropiado,Reflexivo,Preferencia moderada,Sensorial,Preferencia moderada,Visual,Preferencia fuerte,Secuencial
+8,1,t,Estrés moderado,Moderado,Moderado,Extremadamente Severo,Equilibrio apropiado,Activo,Preferencia moderada,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Global
+9,1,t,Estrés leve,No presenta,No presenta,No presenta,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Equilibrio apropiado,Visual,Equilibrio apropiado,Secuencial
+10,1,t,Estrés leve,Leve,No presenta,No presenta,Equilibrio apropiado,Reflexivo,Preferencia moderada,Sensorial,Equilibrio apropiado,Visual,Equilibrio apropiado,Secuencial
+11,1,t,Estrés moderado,Moderado,Moderado,Moderado,Preferencia fuerte,Activo,Preferencia moderada,Sensorial,Equilibrio apropiado,Visual,Equilibrio apropiado,Secuencial
+12,1,t,Estrés moderado,Moderado,Severo,Severo,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Secuencial
+13,1,t,Estrés moderado,No presenta,Severo,Moderado,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Sensorial,Equilibrio apropiado,Verbal,Equilibrio apropiado,Secuencial
+14,1,t,Estrés leve,No presenta,No presenta,Leve,Preferencia moderada,Activo,Preferencia fuerte,Sensorial,Preferencia fuerte,Visual,Preferencia moderada,Secuencial
+15,1,t,Estrés moderado,No presenta,No presenta,Moderado,Equilibrio apropiado,Activo,Preferencia fuerte,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+16,1,t,Estrés moderado,Extremadamente Severo,Severo,Moderado,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Secuencial
+17,1,t,Estrés moderado,Moderado,Leve,Moderado,Preferencia moderada,Activo,Preferencia fuerte,Sensorial,Preferencia moderada,Visual,Preferencia moderada,Secuencial
+18,1,t,Estrés leve,Leve,No presenta,Moderado,Equilibrio apropiado,Reflexivo,Preferencia moderada,Sensorial,Preferencia moderada,Visual,Preferencia moderada,Secuencial
+19,1,t,Estrés leve,No presenta,No presenta,No presenta,Equilibrio apropiado,Reflexivo,Preferencia moderada,Sensorial,Equilibrio apropiado,Verbal,Preferencia moderada,Secuencial
+20,1,t,Estrés leve,No presenta,No presenta,No presenta,Preferencia moderada,Activo,Preferencia fuerte,Sensorial,Equilibrio apropiado,Visual,Preferencia moderada,Secuencial
+21,1,t,Estrés moderado,No presenta,No presenta,Leve,Preferencia moderada,Activo,Preferencia moderada,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Global
+22,1,t,Estrés moderado,Moderado,Severo,Extremadamente Severo,Equilibrio apropiado,Activo,Equilibrio apropiado,Sensorial,Preferencia moderada,Verbal,Equilibrio apropiado,Secuencial
+23,1,t,Estrés leve,Leve,Leve,Leve,Preferencia moderada,Activo,Preferencia fuerte,Sensorial,Preferencia fuerte,Visual,Equilibrio apropiado,Global
+24,1,t,Estrés leve,No presenta,No presenta,Leve,Equilibrio apropiado,Activo,Preferencia moderada,Sensorial,Equilibrio apropiado,Visual,Equilibrio apropiado,Secuencial
+25,1,t,Estrés moderado,Leve,Severo,Extremadamente Severo,Equilibrio apropiado,Activo,Preferencia moderada,Sensorial,Preferencia moderada,Visual,Preferencia moderada,Secuencial
+26,1,t,Estrés moderado,Extremadamente Severo,Extremadamente Severo,Extremadamente Severo,Preferencia moderada,Activo,Preferencia moderada,Sensorial,Preferencia moderada,Visual,Preferencia moderada,Secuencial
+27,1,t,Estrés leve,No presenta,No presenta,No presenta,Equilibrio apropiado,Activo,Preferencia fuerte,Sensorial,Equilibrio apropiado,Visual,Preferencia moderada,Secuencial
+28,1,t,Estrés moderado,Severo,Severo,Extremadamente Severo,Preferencia moderada,Activo,Equilibrio apropiado,Intuitivo,Equilibrio apropiado,Visual,Equilibrio apropiado,Global
+29,1,t,Estrés leve,Leve,No presenta,No presenta,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Secuencial
+30,1,t,Estrés moderado,Leve,Severo,Severo,Preferencia moderada,Activo,Equilibrio apropiado,Sensorial,Preferencia fuerte,Visual,Preferencia moderada,Secuencial
+31,1,t,Estrés moderado,Moderado,Moderado,Extremadamente Severo,Equilibrio apropiado,Reflexivo,Preferencia fuerte,Sensorial,Preferencia moderada,Visual,Equilibrio apropiado,Global
+32,1,t,Estrés moderado,Extremadamente Severo,Extremadamente Severo,Extremadamente Severo,Preferencia moderada,Reflexivo,Equilibrio apropiado,Sensorial,Preferencia moderada,Verbal,Equilibrio apropiado,Global
+33,1,t,Estrés moderado,Severo,Severo,Severo,Preferencia fuerte,Activo,Equilibrio apropiado,Sensorial,Preferencia fuerte,Visual,Preferencia moderada,Secuencial
+34,1,t,Estrés leve,Leve,No presenta,No presenta,Equilibrio apropiado,Reflexivo,Preferencia moderada,Sensorial,Equilibrio apropiado,Visual,Equilibrio apropiado,Global
+35,1,t,Estrés leve,No presenta,No presenta,No presenta,Preferencia moderada,Activo,Equilibrio apropiado,Sensorial,Equilibrio apropiado,Visual,Preferencia moderada,Secuencial
+36,1,t,Estrés moderado,Moderado,Moderado,Moderado,Equilibrio apropiado,Activo,Equilibrio apropiado,Intuitivo,Equilibrio apropiado,Verbal,Equilibrio apropiado,Global
+37,1,t,Estrés moderado,Extremadamente Severo,Moderado,Extremadamente Severo,Equilibrio apropiado,Reflexivo,Equilibrio apropiado,Sensorial,Preferencia fuerte,Visual,Preferencia moderada,Secuencial
+38,1,t,Estrés severo,Extremadamente Severo,Extremadamente Severo,Extremadamente Severo,Preferencia moderada,Activo,Equilibrio apropiado,Intuitivo,Preferencia moderada,Visual,Preferencia moderada,Global
+39,1,t,Estrés leve,No presenta,No presenta,Moderado,Preferencia moderada,Reflexivo,Equilibrio apropiado,Sensorial,Equilibrio apropiado,Visual,Preferencia moderada,Secuencial
